@@ -1,0 +1,10 @@
+{
+    "src":{},
+    "cache":{},
+    "build":{
+        "debug":{},
+        "release":{}
+    },
+    "scripts":{},
+    "config.toml": ""
+}
