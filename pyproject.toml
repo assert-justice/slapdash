@@ -6,9 +6,10 @@ authors = ["Riley Miller <waskerdu@gmail.com>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
-python = "^3.7"
+python = "^3.10"
 toml = "^0.10.2"
 rich = "^12.5.1"
+watchdog = "^2.2.1"
 
 
 [build-system]
